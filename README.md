@@ -1,16 +1,15 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/roberto-mancebo/">
+  <img align="left" alt="Roberto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**robertomancebom/robertomancebom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼[email](mailto:rober.mancebo@gmail.com) 
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Roberto Mancebo and I'm a software engineering student
+
+- 🎓 I’m currently studying Software Engineering at UPM
+- 📓 I’m currently learning Python and Machine Learning
+
+  <img align="right" alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
