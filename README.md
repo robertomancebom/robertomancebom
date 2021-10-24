@@ -1,15 +1,22 @@
 ### Hi there 👋
+
 <a href="https://www.linkedin.com/in/roberto-mancebo/">
-  <img align="left" alt="Roberto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Roberto's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
-💼[email](mailto:rober.mancebo@gmail.com) 
+<a href="mailto:rober.mancebo@gmail.com"> 
+  <img align="left" alt="Roberto's mail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://github.com/robertomancebom/"> 
+  <img align="left" alt="Roberto's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
+<br/><br/>
 
-<br/>
 
-My name is Roberto Mancebo and I'm a software engineering student
+My name is Roberto Mancebo.
 
 - 🎓 I’m currently studying Software Engineering at UPM
 - 📓 I’m currently learning Python and Machine Learning
+- ✨ 20
 
-  <img align="right" alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
