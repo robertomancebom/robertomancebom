@@ -17,6 +17,6 @@ My name is Roberto Mancebo.
 
 - 🎓 I’m currently studying Software Engineering at UPM
 - 📓 I’m currently learning Python and Machine Learning
-- ✨ 20
+- ✨ 21
 
   <img alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
