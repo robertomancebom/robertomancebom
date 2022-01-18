@@ -12,11 +12,14 @@
 </a>
 <br/><br/>
 
-
+<p>
 My name is Roberto Mancebo.
 
-- 🎓 I’m currently studying Software Engineering at UPM
-- 📓 I’m currently learning Python and Machine Learning
+- 🎓 Studying Software Engineering at UPM
+- 📓 Learing Data Science and Machine Learning
 - ✨ 21
+</p>
 
+<p align="right">
   <img alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
+</p>
