@@ -22,12 +22,12 @@
   <img alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
 </p>
 
-## Some of my projects
+## 📙 Some of my projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=OkCupidClustering)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=CSGO_RoundWinnerClassifier)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=OkCupidClustering)](https://github.com/robertomancebom/OkCupidClustering)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=CSGO_RoundWinnerClassifier)](https://github.com/robertomancebom/CSGO_RoundWinnerClassifier)
 
-## My Stats
+## 📈 My GitHub Stats
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=robertomancebom&show_icons=true&theme=apprentice)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomancebom&theme=apprentice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomancebom&theme=apprentice&layout=compact)
