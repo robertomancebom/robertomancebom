@@ -12,15 +12,22 @@
 </a>
 <br/><br/>
 
-My name is Roberto Mancebo.
+## My name is Roberto Mancebo
 
 - 🎓 Studying Software Engineering at UPM
 - 📓 Learing Data Science and Machine Learning
 - ✨ 21
    
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomancebom&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="right">
+<p align="center">
   <img alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
 </p>
 
+## Some of my projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=OkCupidClustering)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=CSGO_RoundWinnerClassifier)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Stats
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=robertomancebom&show_icons=true&theme=apprentice)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomancebom&theme=apprentice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
