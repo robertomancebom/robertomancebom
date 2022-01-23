@@ -23,13 +23,21 @@
 </p>
 
 ## 📙 Some of the projects I have worked on
-
+<div align="center">
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=OkCupidClustering)](https://github.com/robertomancebom/OkCupidClustering)
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=robertomancebom&repo=CSGO_RoundWinnerClassifier)](https://github.com/osoc-es/laterality)
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=osoc-es&repo=laterality&show_owner=true)](https://github.com/robertomancebom/CSGO_RoundWinnerClassifier)
 
+</div>
 
 ## 📈 My GitHub Stats
 
+<div align="center">
+
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=robertomancebom&show_icons=true&theme=apprentice)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomancebom&theme=apprentice&layout=compact)
+
+</div>
