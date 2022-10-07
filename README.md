@@ -14,7 +14,8 @@
 
 ## My name is Roberto Mancebo
 
-- 🎓 Studying Software Engineering at UPM
+- 🎓 Studying MSc. in Applied Artificial Intelligence at UC3M
+- 💻 Software Engineer
 - 📓 Learing Data Science and Machine Learning
 - ✨ 21
    
