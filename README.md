@@ -17,7 +17,7 @@
 - 🎓 Studying MSc. in Applied Artificial Intelligence at UC3M
 - 💻 Software Engineer
 - 📓 Learing Data Science and Machine Learning
-- ✨ 21
+- ✨ 22
    
 <p align="center">
   <img alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
