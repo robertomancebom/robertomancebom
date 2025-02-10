@@ -12,7 +12,7 @@
 
 - 🧠💻 MSc. in Applied Artificial Intelligence | Software Engineer
 - 📓🏥 Learing about Deep Learning in Healthcare
-- ✨🚀 23
+- ✨🚀 24
    
 <p align="center">
   <img alt="GIF" src="https://github.com/robertomancebom/robertomancebom/blob/master/coding.gif?raw=true" width="500" height="320" />
